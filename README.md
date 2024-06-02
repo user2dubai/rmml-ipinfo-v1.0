@@ -1,2 +1,2 @@
-# rmml-ipinfo-v1.0
+# rmml-ipinfo
 pour avoir des info d'une adresse ip
